@@ -1,4 +1,4 @@
-# LodingScreen
+# Loading Screen
 1. Download Script 
 2. Start Script in Cfg
 3. Change Name in index.html
